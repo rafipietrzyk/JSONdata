@@ -1,19 +1,19 @@
 [
     {
         "login" : "marcin@name.com",
-        "city" : "123"
+        "password" : "123"
     },
     {
         "name" : "wiola@name.com",
-        "city" : "1234"
+        "password" : "1234"
     },
     {
         "name" : "jakub@sth.com",
-        "city" : "abcd"
+        "password" : "abcd"
     },
     {
         "name" : "krzysiek@gmail.com",
-        "city" : "asdf"
+        "password" : "asdf"
     }
 
 ]
